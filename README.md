@@ -1,0 +1,2 @@
+# EMPnd
+Application which provides facilities for an organisation for managing all the employee related activities. The application is expected to develop using Spring 4 , BootStrap 2 and Angular JS 2 
